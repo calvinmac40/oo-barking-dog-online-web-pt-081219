@@ -7,11 +7,11 @@ class Dog
     @name
   end
 
-#   def bark
-#     puts "Woof!"
-#   end
-# end
+  def bark
+    puts "Woof!"
+  end
+end
 
-# fido = Dog.new 
-# fido.name = "Fido"
-# fido.ark
+fido = Dog.new 
+fido.name = "Fido"
+fido.ark
