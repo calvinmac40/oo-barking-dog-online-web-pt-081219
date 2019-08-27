@@ -8,7 +8,7 @@ class Dog
   end
 
   def bark
-    woof!
+    "Woof!"
   end
 end
 
