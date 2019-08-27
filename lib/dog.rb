@@ -7,8 +7,8 @@ class Dog
     @name
   end
 
-  def bark
-    "woof!"
+  def bark(woof)
+    "Woof!"
   end
 end
 
