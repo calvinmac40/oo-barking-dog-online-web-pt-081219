@@ -11,13 +11,14 @@ class Dog
 # end
 
 # class Dog
-  def bark
+  def dog_is_able_to_bark
     puts "Woof!"
   end
 end
 
 fido = Dog.new
 fido.bark
+
 
 
 
