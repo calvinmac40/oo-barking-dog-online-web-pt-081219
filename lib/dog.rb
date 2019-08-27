@@ -17,7 +17,7 @@ class Dog
 end
 
 fido = Dog.new
-fido.
+fido.dog_is_able_to_bark
 
 
 
