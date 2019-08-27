@@ -14,4 +14,4 @@ end
 
 fido = Dog.new 
 fido.name = "Fido"
-fido.ark
+fido.bark
