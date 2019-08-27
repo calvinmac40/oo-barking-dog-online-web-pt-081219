@@ -11,7 +11,7 @@ class Dog
 # end
 
 # class Dog
-  def dog_is_able_to_bark
+  def bark
     puts "Woof!"
   end
 end
